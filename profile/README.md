@@ -14,8 +14,8 @@ suite used to test it, so you can verify the work yourself.
 
 - **[anti-hallucination](https://github.com/Telos-evals/anti-hallucination)**: catches ungrounded factual claims
 - **[anti-sycophancy](https://github.com/Telos-evals/anti-sycophancy)**: catches sycophantic agreement and praise
+- **[anti-fictional-frame](https://github.com/Telos-evals/anti-fictional-frame)**: catches "hypothetically" framings that lower rigor
 - **anti-dependency** *(planned)*: catches dependency-cultivating behavior
-- **anti-fictional-frame** *(planned)*: catches "hypothetically" framings that lower rigor
 
 Each skill is MIT-licensed and installs in a minute.
 
